@@ -46,3 +46,11 @@ body{
     transform: rotateX(0);
   }
 }
+
+.row{
+    color:darkblue;
+}
+
+html {
+  scroll-behavior: smooth;
+}
